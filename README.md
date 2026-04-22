@@ -23,7 +23,6 @@ The dashboard is built in **Power BI** and designed for **business insights and 
 - Coverage:
   - Multi-year retail sales data
   - Provincial-level breakdown
-  - Industry categories (if applicable)
 
 ---
 
